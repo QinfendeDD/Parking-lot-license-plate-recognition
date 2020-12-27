@@ -1,4 +1,4 @@
-# -
+# Parking lot license plate recognition
 停车场车牌识别+数据分析统计
 # 开发环境要求
 本系统的软件开发及运行环境具体如下。
